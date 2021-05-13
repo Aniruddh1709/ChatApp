@@ -1,3 +1,3 @@
 # ChatApp
 
-link-https://naughty-leakey-215b77.netlify.app/
+https://chatapp1234aniruddh.netlify.app/
